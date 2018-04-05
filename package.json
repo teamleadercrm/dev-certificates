@@ -1,0 +1,21 @@
+{
+  "name": "@teamleader/dev-certificates",
+  "description": "Teamleader's development certificates. Go wild!",
+  "version": "1.0.0",
+  "author": "Teamleader <development@teamleader.eu> (https://www.teamleader.eu)",
+  "bugs": {
+    "url": "https://github.com/teamleadercrm/dev-certificates/issues"
+  },
+  "homepage": "https://github.com/teamleadercrm/dev-certificates#readme",
+  "keywords": [
+    "certificates",
+    "development",
+    "teamleader"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamleadercrm/dev-certificates.git"
+  }
+}
