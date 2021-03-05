@@ -1,7 +1,7 @@
 {
   "name": "@teamleader/dev-certificates",
   "description": "Teamleader's development certificates. Go wild!",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Teamleader <development@teamleader.eu> (https://www.teamleader.eu)",
   "bugs": {
     "url": "https://github.com/teamleadercrm/dev-certificates/issues"
